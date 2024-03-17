@@ -1,15 +1,10 @@
-from turtle import *
-i = 0
-while i == 0:
-    turtlesize(5)
-
-    forward(100)
-    left(120)
-    forward(200)
-    right(120)
-    forward(100)
-    right(120)
-    forward(200)
-    left(120)
-
-
+import turtle as t
+t.home()
+t.clearscreen()
+t.turtlesize(5)
+t.color("#909")
+t.forward(100)
+t.color("#0A0")
+t.left(135)
+t.forward(200)
+t.mainloop()
