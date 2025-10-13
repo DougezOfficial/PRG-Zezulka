@@ -54,3 +54,4 @@ print(f"Celkem prvočísel: {prvočísla}")
 print("\n--- --- --- --- --- --- ---\n")
 
 
+
