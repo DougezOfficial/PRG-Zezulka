@@ -20,4 +20,5 @@ prumer = nasobek / pocet_vah
 prumer = round(prumer, 2)
 
 print("Průměr s vahami je :",prumer)
+
 print("Průměr bez bah je :",prm)
