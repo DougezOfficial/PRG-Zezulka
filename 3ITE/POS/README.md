@@ -24,4 +24,6 @@ VACLAV do ASCII: 86 + 65 + 67 + 76 + 65 + 86 =  445
 
 ![[S2config_Zezulka.png]]
 
-![[PC1ipconf_Zezulka.png]]![[PC1ping_Zezulka.png]]
+![[PC1ipconf_Zezulka.png]]
+
+![[PC1ping_Zezulka.png]]
