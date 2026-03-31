@@ -22,8 +22,9 @@ VACLAV do ASCII: 86 + 65 + 67 + 76 + 65 + 86 =  445
 # Snímky obrazovky
 
 
+![S2config_Zezulka.png](https://github.com/DougezOfficial/PRG-Zezulka/blob/main/3ITE/POS/S2config_Zezulka.png)
+
 ![PC1ipconf_Zezulka.png](https://github.com/DougezOfficial/PRG-Zezulka/blob/main/3ITE/POS/PC1ipconf_Zezulka.png)
 
 ![PC1ping_Zezulka.png](https://github.com/DougezOfficial/PRG-Zezulka/blob/main/3ITE/POS/PC1ping_Zezulka.png)
 
-![S2config_Zezulka.png](https://github.com/DougezOfficial/PRG-Zezulka/blob/main/3ITE/POS/S2config_Zezulka.png)
